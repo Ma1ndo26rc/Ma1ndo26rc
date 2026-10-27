@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm JC 👋
 
-<!--
-**Ma1ndo26rc/Ma1ndo26rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Communication Engineering undergraduate at Hangzhou Dianzi University**, interested in how signal processing, machine learning, and software engineering come together in real-world systems.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Speech & audio AI:** speech enhancement, speech understanding, and model evaluation under noisy and reverberant conditions.
+- **Communications:** wireless communication simulation, signal processing, and in-vehicle networks.
+- **Practical AI tools:** building Python applications and exploring LLM integrations.
+
+### Selected projects
+
+- **[Fitbit Health MCP](https://github.com/Ma1ndo26rc/fitbit-health-mcp)** — A Python MCP server that connects personal health data with ChatGPT, with separate OAuth flows for the MCP client and Google Health.
+- **[CodeX](https://github.com/Ma1ndo26rc/CodeX)** — An AI-assisted US stock market news and reporting pipeline with automated briefs and a React-based dashboard.
+
+### Tools I use
+
+`Python` · `PyTorch` · `MATLAB` · `C` · `Git` · `Linux` · `Docker`
+
+*Always learning, building, and improving things along the way.*
